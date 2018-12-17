@@ -1,3 +1,13 @@
+/*
+Template Name    : Emad Eldein 
+Version          : 1.0.0
+Author           : SVYYAT
+Author URI       : https://github.com/EmadEldein/
+Created.         : December 2018
+File Description : Main JS file of the template
+MIT License	 : Copyright (c) 2018 Emad Eldein Ibrahim
+
+
 // ------------------------------------------ //
 //              Table Of Content              //
 // ------------------------------------------ //
